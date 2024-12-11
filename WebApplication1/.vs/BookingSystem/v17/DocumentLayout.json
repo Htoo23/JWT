@@ -1,0 +1,449 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\api\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA15569-17D2-4BD9-B1FE-35D3DC4CF9ED}|WebApplication1\\BookingSystem.csproj|c:\\api\\webapplication1\\webapplication1\\bookingsystem.application\\models\\userprofileupdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA15569-17D2-4BD9-B1FE-35D3DC4CF9ED}|WebApplication1\\BookingSystem.csproj|solutionrelative:webapplication1\\bookingsystem.application\\models\\userprofileupdaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA15569-17D2-4BD9-B1FE-35D3DC4CF9ED}|WebApplication1\\BookingSystem.csproj|c:\\api\\webapplication1\\webapplication1\\bookingsystem.application\\services\\packageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA15569-17D2-4BD9-B1FE-35D3DC4CF9ED}|WebApplication1\\BookingSystem.csproj|solutionrelative:webapplication1\\bookingsystem.application\\services\\packageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA15569-17D2-4BD9-B1FE-35D3DC4CF9ED}|WebApplication1\\BookingSystem.csproj|c:\\api\\webapplication1\\webapplication1\\bookingsystem.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA15569-17D2-4BD9-B1FE-35D3DC4CF9ED}|WebApplication1\\BookingSystem.csproj|solutionrelative:webapplication1\\bookingsystem.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA15569-17D2-4BD9-B1FE-35D3DC4CF9ED}|WebApplication1\\BookingSystem.csproj|c:\\api\\webapplication1\\webapplication1\\bookingsystem.application\\services\\scheduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA15569-17D2-4BD9-B1FE-35D3DC4CF9ED}|WebApplication1\\BookingSystem.csproj|solutionrelative:webapplication1\\bookingsystem.application\\services\\scheduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA15569-17D2-4BD9-B1FE-35D3DC4CF9ED}|WebApplication1\\BookingSystem.csproj|c:\\api\\webapplication1\\webapplication1\\bookingsystem.application\\models\\authresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA15569-17D2-4BD9-B1FE-35D3DC4CF9ED}|WebApplication1\\BookingSystem.csproj|solutionrelative:webapplication1\\bookingsystem.application\\models\\authresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA15569-17D2-4BD9-B1FE-35D3DC4CF9ED}|WebApplication1\\BookingSystem.csproj|c:\\api\\webapplication1\\webapplication1\\bookingsystem.application\\models\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA15569-17D2-4BD9-B1FE-35D3DC4CF9ED}|WebApplication1\\BookingSystem.csproj|solutionrelative:webapplication1\\bookingsystem.application\\models\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA15569-17D2-4BD9-B1FE-35D3DC4CF9ED}|WebApplication1\\BookingSystem.csproj|c:\\api\\webapplication1\\webapplication1\\bookingsystem.application\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA15569-17D2-4BD9-B1FE-35D3DC4CF9ED}|WebApplication1\\BookingSystem.csproj|solutionrelative:webapplication1\\bookingsystem.application\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA15569-17D2-4BD9-B1FE-35D3DC4CF9ED}|WebApplication1\\BookingSystem.csproj|c:\\api\\webapplication1\\webapplication1\\bookingsystem.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA15569-17D2-4BD9-B1FE-35D3DC4CF9ED}|WebApplication1\\BookingSystem.csproj|solutionrelative:webapplication1\\bookingsystem.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA15569-17D2-4BD9-B1FE-35D3DC4CF9ED}|WebApplication1\\BookingSystem.csproj|c:\\api\\webapplication1\\webapplication1\\bookingsystem.api\\controllers\\schedulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA15569-17D2-4BD9-B1FE-35D3DC4CF9ED}|WebApplication1\\BookingSystem.csproj|solutionrelative:webapplication1\\bookingsystem.api\\controllers\\schedulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA15569-17D2-4BD9-B1FE-35D3DC4CF9ED}|WebApplication1\\BookingSystem.csproj|c:\\api\\webapplication1\\webapplication1\\bookingsystem.api\\controllers\\packagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA15569-17D2-4BD9-B1FE-35D3DC4CF9ED}|WebApplication1\\BookingSystem.csproj|solutionrelative:webapplication1\\bookingsystem.api\\controllers\\packagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA15569-17D2-4BD9-B1FE-35D3DC4CF9ED}|WebApplication1\\BookingSystem.csproj|c:\\api\\webapplication1\\webapplication1\\bookingsystem.infrastructure\\repositories\\packagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA15569-17D2-4BD9-B1FE-35D3DC4CF9ED}|WebApplication1\\BookingSystem.csproj|solutionrelative:webapplication1\\bookingsystem.infrastructure\\repositories\\packagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA15569-17D2-4BD9-B1FE-35D3DC4CF9ED}|WebApplication1\\BookingSystem.csproj|c:\\api\\webapplication1\\webapplication1\\bookingsystem.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA15569-17D2-4BD9-B1FE-35D3DC4CF9ED}|WebApplication1\\BookingSystem.csproj|solutionrelative:webapplication1\\bookingsystem.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA15569-17D2-4BD9-B1FE-35D3DC4CF9ED}|WebApplication1\\BookingSystem.csproj|c:\\api\\webapplication1\\webapplication1\\bookingsystem.domain\\entities\\waitlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA15569-17D2-4BD9-B1FE-35D3DC4CF9ED}|WebApplication1\\BookingSystem.csproj|solutionrelative:webapplication1\\bookingsystem.domain\\entities\\waitlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA15569-17D2-4BD9-B1FE-35D3DC4CF9ED}|WebApplication1\\BookingSystem.csproj|c:\\api\\webapplication1\\webapplication1\\bookingsystem.application\\models\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA15569-17D2-4BD9-B1FE-35D3DC4CF9ED}|WebApplication1\\BookingSystem.csproj|solutionrelative:webapplication1\\bookingsystem.application\\models\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA15569-17D2-4BD9-B1FE-35D3DC4CF9ED}|WebApplication1\\BookingSystem.csproj|c:\\api\\webapplication1\\webapplication1\\bookingsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6FA15569-17D2-4BD9-B1FE-35D3DC4CF9ED}|WebApplication1\\BookingSystem.csproj|solutionrelative:webapplication1\\bookingsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA15569-17D2-4BD9-B1FE-35D3DC4CF9ED}|WebApplication1\\BookingSystem.csproj|c:\\api\\webapplication1\\webapplication1\\bookingsystem.application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA15569-17D2-4BD9-B1FE-35D3DC4CF9ED}|WebApplication1\\BookingSystem.csproj|solutionrelative:webapplication1\\bookingsystem.application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA15569-17D2-4BD9-B1FE-35D3DC4CF9ED}|WebApplication1\\BookingSystem.csproj|c:\\api\\webapplication1\\webapplication1\\bookingsystem.infrastructure\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA15569-17D2-4BD9-B1FE-35D3DC4CF9ED}|WebApplication1\\BookingSystem.csproj|solutionrelative:webapplication1\\bookingsystem.infrastructure\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA15569-17D2-4BD9-B1FE-35D3DC4CF9ED}|WebApplication1\\BookingSystem.csproj|c:\\api\\webapplication1\\webapplication1\\bookingsystem.domain\\entities\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA15569-17D2-4BD9-B1FE-35D3DC4CF9ED}|WebApplication1\\BookingSystem.csproj|solutionrelative:webapplication1\\bookingsystem.domain\\entities\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA15569-17D2-4BD9-B1FE-35D3DC4CF9ED}|WebApplication1\\BookingSystem.csproj|c:\\api\\webapplication1\\webapplication1\\bookingsystem.domain\\entities\\classschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA15569-17D2-4BD9-B1FE-35D3DC4CF9ED}|WebApplication1\\BookingSystem.csproj|solutionrelative:webapplication1\\bookingsystem.domain\\entities\\classschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA15569-17D2-4BD9-B1FE-35D3DC4CF9ED}|WebApplication1\\BookingSystem.csproj|c:\\api\\webapplication1\\webapplication1\\bookingsystem.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA15569-17D2-4BD9-B1FE-35D3DC4CF9ED}|WebApplication1\\BookingSystem.csproj|solutionrelative:webapplication1\\bookingsystem.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA15569-17D2-4BD9-B1FE-35D3DC4CF9ED}|WebApplication1\\BookingSystem.csproj|c:\\api\\webapplication1\\webapplication1\\bookingsystem.application\\interfaces\\ischeduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA15569-17D2-4BD9-B1FE-35D3DC4CF9ED}|WebApplication1\\BookingSystem.csproj|solutionrelative:webapplication1\\bookingsystem.application\\interfaces\\ischeduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA15569-17D2-4BD9-B1FE-35D3DC4CF9ED}|WebApplication1\\BookingSystem.csproj|c:\\api\\webapplication1\\webapplication1\\bookingsystem.application\\interfaces\\ipackageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA15569-17D2-4BD9-B1FE-35D3DC4CF9ED}|WebApplication1\\BookingSystem.csproj|solutionrelative:webapplication1\\bookingsystem.application\\interfaces\\ipackageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA15569-17D2-4BD9-B1FE-35D3DC4CF9ED}|WebApplication1\\BookingSystem.csproj|c:\\api\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA15569-17D2-4BD9-B1FE-35D3DC4CF9ED}|WebApplication1\\BookingSystem.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA15569-17D2-4BD9-B1FE-35D3DC4CF9ED}|WebApplication1\\BookingSystem.csproj|c:\\api\\webapplication1\\webapplication1\\bookingsystem.infrastructure\\repositories\\schedulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA15569-17D2-4BD9-B1FE-35D3DC4CF9ED}|WebApplication1\\BookingSystem.csproj|solutionrelative:webapplication1\\bookingsystem.infrastructure\\repositories\\schedulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA15569-17D2-4BD9-B1FE-35D3DC4CF9ED}|WebApplication1\\BookingSystem.csproj|c:\\api\\webapplication1\\webapplication1\\bookingsystem.domain\\entities\\package.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA15569-17D2-4BD9-B1FE-35D3DC4CF9ED}|WebApplication1\\BookingSystem.csproj|solutionrelative:webapplication1\\bookingsystem.domain\\entities\\package.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthResult.cs",
+              "DocumentMoniker": "C:\\api\\WebApplication1\\WebApplication1\\BookingSystem.Application\\Models\\AuthResult.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\BookingSystem.Application\\Models\\AuthResult.cs",
+              "ToolTip": "C:\\api\\WebApplication1\\WebApplication1\\BookingSystem.Application\\Models\\AuthResult.cs",
+              "RelativeToolTip": "WebApplication1\\BookingSystem.Application\\Models\\AuthResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T06:50:05.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "C:\\api\\WebApplication1\\WebApplication1\\BookingSystem.Application\\Models\\UserProfile.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\BookingSystem.Application\\Models\\UserProfile.cs",
+              "ToolTip": "C:\\api\\WebApplication1\\WebApplication1\\BookingSystem.Application\\Models\\UserProfile.cs",
+              "RelativeToolTip": "WebApplication1\\BookingSystem.Application\\Models\\UserProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T06:48:28.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\api\\WebApplication1\\WebApplication1\\BookingSystem.Application\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\BookingSystem.Application\\Models\\LoginRequest.cs",
+              "ToolTip": "C:\\api\\WebApplication1\\WebApplication1\\BookingSystem.Application\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "WebApplication1\\BookingSystem.Application\\Models\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T06:47:14.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\api\\WebApplication1\\WebApplication1\\BookingSystem.Application\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\BookingSystem.Application\\Services\\UserService.cs",
+              "ToolTip": "C:\\api\\WebApplication1\\WebApplication1\\BookingSystem.Application\\Services\\UserService.cs",
+              "RelativeToolTip": "WebApplication1\\BookingSystem.Application\\Services\\UserService.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAqwAsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T04:28:23.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ScheduleService.cs",
+              "DocumentMoniker": "C:\\api\\WebApplication1\\WebApplication1\\BookingSystem.Application\\Services\\ScheduleService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\BookingSystem.Application\\Services\\ScheduleService.cs",
+              "ToolTip": "C:\\api\\WebApplication1\\WebApplication1\\BookingSystem.Application\\Services\\ScheduleService.cs",
+              "RelativeToolTip": "WebApplication1\\BookingSystem.Application\\Services\\ScheduleService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwD4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T04:30:02.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PackageService.cs",
+              "DocumentMoniker": "C:\\api\\WebApplication1\\WebApplication1\\BookingSystem.Application\\Services\\PackageService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\BookingSystem.Application\\Services\\PackageService.cs",
+              "ToolTip": "C:\\api\\WebApplication1\\WebApplication1\\BookingSystem.Application\\Services\\PackageService.cs",
+              "RelativeToolTip": "WebApplication1\\BookingSystem.Application\\Services\\PackageService.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAmwCUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T04:29:37.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserProfileUpdateRequest.cs",
+              "DocumentMoniker": "C:\\api\\WebApplication1\\WebApplication1\\BookingSystem.Application\\Models\\UserProfileUpdateRequest.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\BookingSystem.Application\\Models\\UserProfileUpdateRequest.cs",
+              "ToolTip": "C:\\api\\WebApplication1\\WebApplication1\\BookingSystem.Application\\Models\\UserProfileUpdateRequest.cs",
+              "RelativeToolTip": "WebApplication1\\BookingSystem.Application\\Models\\UserProfileUpdateRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T06:50:59.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\api\\WebApplication1\\WebApplication1\\BookingSystem.Api\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\BookingSystem.Api\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\api\\WebApplication1\\WebApplication1\\BookingSystem.Api\\Controllers\\UserController.cs",
+              "RelativeToolTip": "WebApplication1\\BookingSystem.Api\\Controllers\\UserController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwDEAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T04:14:08.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ScheduleController.cs",
+              "DocumentMoniker": "C:\\api\\WebApplication1\\WebApplication1\\BookingSystem.Api\\Controllers\\ScheduleController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\BookingSystem.Api\\Controllers\\ScheduleController.cs",
+              "ToolTip": "C:\\api\\WebApplication1\\WebApplication1\\BookingSystem.Api\\Controllers\\ScheduleController.cs",
+              "RelativeToolTip": "WebApplication1\\BookingSystem.Api\\Controllers\\ScheduleController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T04:15:12.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PackageController.cs",
+              "DocumentMoniker": "C:\\api\\WebApplication1\\WebApplication1\\BookingSystem.Api\\Controllers\\PackageController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\BookingSystem.Api\\Controllers\\PackageController.cs",
+              "ToolTip": "C:\\api\\WebApplication1\\WebApplication1\\BookingSystem.Api\\Controllers\\PackageController.cs",
+              "RelativeToolTip": "WebApplication1\\BookingSystem.Api\\Controllers\\PackageController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T04:14:53.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PackageRepository.cs",
+              "DocumentMoniker": "C:\\api\\WebApplication1\\WebApplication1\\BookingSystem.Infrastructure\\Repositories\\PackageRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\BookingSystem.Infrastructure\\Repositories\\PackageRepository.cs",
+              "ToolTip": "C:\\api\\WebApplication1\\WebApplication1\\BookingSystem.Infrastructure\\Repositories\\PackageRepository.cs",
+              "RelativeToolTip": "WebApplication1\\BookingSystem.Infrastructure\\Repositories\\PackageRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T04:40:29.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\api\\WebApplication1\\WebApplication1\\BookingSystem.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\BookingSystem.Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\api\\WebApplication1\\WebApplication1\\BookingSystem.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "WebApplication1\\BookingSystem.Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T04:40:07.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Waitlist.cs",
+              "DocumentMoniker": "C:\\api\\WebApplication1\\WebApplication1\\BookingSystem.Domain\\Entities\\Waitlist.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\BookingSystem.Domain\\Entities\\Waitlist.cs",
+              "ToolTip": "C:\\api\\WebApplication1\\WebApplication1\\BookingSystem.Domain\\Entities\\Waitlist.cs",
+              "RelativeToolTip": "WebApplication1\\BookingSystem.Domain\\Entities\\Waitlist.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T04:38:02.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "C:\\api\\WebApplication1\\WebApplication1\\BookingSystem.Application\\Models\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\BookingSystem.Application\\Models\\RegisterRequest.cs",
+              "ToolTip": "C:\\api\\WebApplication1\\WebApplication1\\BookingSystem.Application\\Models\\RegisterRequest.cs",
+              "RelativeToolTip": "WebApplication1\\BookingSystem.Application\\Models\\RegisterRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T06:12:49.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\api\\WebApplication1\\WebApplication1\\BookingSystem.Application\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\BookingSystem.Application\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\api\\WebApplication1\\WebApplication1\\BookingSystem.Application\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "WebApplication1\\BookingSystem.Application\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T04:16:46.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\api\\WebApplication1\\WebApplication1\\BookingSystem.Domain\\Entities\\Booking.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\BookingSystem.Domain\\Entities\\Booking.cs",
+              "ToolTip": "C:\\api\\WebApplication1\\WebApplication1\\BookingSystem.Domain\\Entities\\Booking.cs",
+              "RelativeToolTip": "WebApplication1\\BookingSystem.Domain\\Entities\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T04:37:51.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\api\\WebApplication1\\WebApplication1\\BookingSystem.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\BookingSystem.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\api\\WebApplication1\\WebApplication1\\BookingSystem.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "WebApplication1\\BookingSystem.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T04:33:11.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ClassSchedule.cs",
+              "DocumentMoniker": "C:\\api\\WebApplication1\\WebApplication1\\BookingSystem.Domain\\Entities\\ClassSchedule.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\BookingSystem.Domain\\Entities\\ClassSchedule.cs",
+              "ToolTip": "C:\\api\\WebApplication1\\WebApplication1\\BookingSystem.Domain\\Entities\\ClassSchedule.cs",
+              "RelativeToolTip": "WebApplication1\\BookingSystem.Domain\\Entities\\ClassSchedule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T04:33:57.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\api\\WebApplication1\\WebApplication1\\BookingSystem.Infrastructure\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\BookingSystem.Infrastructure\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\api\\WebApplication1\\WebApplication1\\BookingSystem.Infrastructure\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WebApplication1\\BookingSystem.Infrastructure\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T04:39:05.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BookingSystem",
+              "DocumentMoniker": "C:\\api\\WebApplication1\\WebApplication1\\BookingSystem.csproj",
+              "RelativeDocumentMoniker": "WebApplication1\\BookingSystem.csproj",
+              "ToolTip": "C:\\api\\WebApplication1\\WebApplication1\\BookingSystem.csproj",
+              "RelativeToolTip": "WebApplication1\\BookingSystem.csproj",
+              "ViewState": "AgIAABEAAACQKailoNYiwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-11T04:15:31.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IScheduleService.cs",
+              "DocumentMoniker": "C:\\api\\WebApplication1\\WebApplication1\\BookingSystem.Application\\Interfaces\\IScheduleService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\BookingSystem.Application\\Interfaces\\IScheduleService.cs",
+              "ToolTip": "C:\\api\\WebApplication1\\WebApplication1\\BookingSystem.Application\\Interfaces\\IScheduleService.cs",
+              "RelativeToolTip": "WebApplication1\\BookingSystem.Application\\Interfaces\\IScheduleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T04:19:56.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IPackageService.cs",
+              "DocumentMoniker": "C:\\api\\WebApplication1\\WebApplication1\\BookingSystem.Application\\Interfaces\\IPackageService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\BookingSystem.Application\\Interfaces\\IPackageService.cs",
+              "ToolTip": "C:\\api\\WebApplication1\\WebApplication1\\BookingSystem.Application\\Interfaces\\IPackageService.cs",
+              "RelativeToolTip": "WebApplication1\\BookingSystem.Application\\Interfaces\\IPackageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T04:19:39.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\api\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\api\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T04:41:04.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ScheduleRepository.cs",
+              "DocumentMoniker": "C:\\api\\WebApplication1\\WebApplication1\\BookingSystem.Infrastructure\\Repositories\\ScheduleRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\BookingSystem.Infrastructure\\Repositories\\ScheduleRepository.cs",
+              "ToolTip": "C:\\api\\WebApplication1\\WebApplication1\\BookingSystem.Infrastructure\\Repositories\\ScheduleRepository.cs",
+              "RelativeToolTip": "WebApplication1\\BookingSystem.Infrastructure\\Repositories\\ScheduleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T04:40:52.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Package.cs",
+              "DocumentMoniker": "C:\\api\\WebApplication1\\WebApplication1\\BookingSystem.Domain\\Entities\\Package.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\BookingSystem.Domain\\Entities\\Package.cs",
+              "ToolTip": "C:\\api\\WebApplication1\\WebApplication1\\BookingSystem.Domain\\Entities\\Package.cs",
+              "RelativeToolTip": "WebApplication1\\BookingSystem.Domain\\Entities\\Package.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T04:33:25.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

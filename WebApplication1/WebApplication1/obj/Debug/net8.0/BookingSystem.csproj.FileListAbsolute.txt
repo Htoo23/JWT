@@ -1,0 +1,7 @@
+C:\api\WebApplication1\WebApplication1\obj\Debug\net8.0\BookingSystem.csproj.AssemblyReference.cache
+C:\api\WebApplication1\WebApplication1\obj\Debug\net8.0\BookingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\api\WebApplication1\WebApplication1\obj\Debug\net8.0\BookingSystem.AssemblyInfoInputs.cache
+C:\api\WebApplication1\WebApplication1\obj\Debug\net8.0\BookingSystem.AssemblyInfo.cs
+C:\api\WebApplication1\WebApplication1\obj\Debug\net8.0\BookingSystem.csproj.CoreCompileInputs.cache
+C:\api\WebApplication1\WebApplication1\obj\Debug\net8.0\BookingSystem.MvcApplicationPartsAssemblyInfo.cs
+C:\api\WebApplication1\WebApplication1\obj\Debug\net8.0\BookingSystem.MvcApplicationPartsAssemblyInfo.cache
